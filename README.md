@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameenabdulsalam
+- 👋 Hi, I’m @nxz
 - 👀 I’m interested in security
 - 🌱 I’m currently learning server administration
 - 💞️ I’m looking to collaborate on server administration & security
